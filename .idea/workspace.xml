@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f79f2a19-92ff-422d-82b0-346749bc4cb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21g9Zqer4x6WM2KPkbMoOKShjMa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Node.js.script.js (1)">
+    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.5 Типы данных/script.js" working-dir="$PROJECT_DIR$/2.5 Типы данных">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.3 Строгий режим - use strict/script.js" working-dir="$PROJECT_DIR$/2.3 Строгий режим - use strict">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js (1)" />
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f79f2a19-92ff-422d-82b0-346749bc4cb8" name="Default Changelist" comment="" />
+      <created>1638351921319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638351921319</updated>
+      <workItem from="1638351923594" duration="4384000" />
+      <workItem from="1638372488809" duration="4155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="706" height="2" key="GridCell.Tab.0.bottom" timestamp="1638373558553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="706" height="2" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1638373558553" />
+    <state width="706" height="2" key="GridCell.Tab.0.center" timestamp="1638373558553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="706" height="2" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1638373558553" />
+    <state width="706" height="2" key="GridCell.Tab.0.left" timestamp="1638373558553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="706" height="2" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1638373558553" />
+    <state width="706" height="2" key="GridCell.Tab.0.right" timestamp="1638373558553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="706" height="2" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1638373558553" />
+  </component>
+</project>
