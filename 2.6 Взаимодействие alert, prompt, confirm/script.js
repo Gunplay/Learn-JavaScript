@@ -16,3 +16,8 @@ alert( isBoss ); // true, если нажата OK
 
 let whoAreYou= prompt(`You Vova?`, "Vova");
 alert( whoAreYou ); // true, если нажата OK
+
+let family = 'Antonov';
+let name = prompt('Wyn?', 'Anton');
+
+alert(`You ${name} !, and ${family}`); // Тебе 100 лет!
