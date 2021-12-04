@@ -2,15 +2,15 @@
 //     alert( 'Привет' );
 // }
 
-// let offName =  prompt('Какое «официальное» название JavaScript?', '');
-// if (offName == 'ECMAScript') {
-//     message = 'True';
-// }
-// else {
-//     message = 'False';
-// }
-// alert( message);
+let offName =  prompt('Какое «официальное» название JavaScript?', '');
+if (offName == 'ECMAScript') {
+    message = 'True';
+}
 
+else {
+    message = 'False';
+}
+alert( message);
 
 
 // let age = prompt('Возраст?', 18);
@@ -33,14 +33,19 @@
 // alert(result);
 
 
-
 let login = prompt('Who?', '');
+let mass = {
+    1: "cat",
+    2: "dog",
+    3: "bat"
 
-let message = (login == 'Сотрудник') ? 'Привет':
-        (login == 'Директор') ? 'Здравствуйте':
-        (login == '') ? 'Нет логина' :
-            '';
-alert( message );
+};
+let message = (login == 'Сотрудник') ? 'Привет' :
+    (login == 'Директор') ? 'Здравствуйте' :
+        (login = mass) ? 'try again' :
+            (login == '') ? 'Нет логина' :
+                '';
+alert(message);
 
 // let message;
 //
