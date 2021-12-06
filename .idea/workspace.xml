@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f79f2a19-92ff-422d-82b0-346749bc4cb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.11 Логические операторы/pass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.11 Логические операторы/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.11 Логические операторы/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.12 Оператор объединения с null/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.12 Оператор объединения с null/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.10 Условное ветвление if/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.10 Условное ветвление if/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.10 Условное ветвление if/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.10 Условное ветвление if/task.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.11 Логические операторы/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.11 Логические операторы/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.11 Логические операторы/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.11 Логические операторы/task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.11 Логические операторы/pass.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.11 Логические операторы/Homeworklogin.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,8 @@
       <workItem from="1638649737684" duration="1842000" />
       <workItem from="1638692370914" duration="968000" />
       <workItem from="1638701772060" duration="3402000" />
-      <workItem from="1638726691219" duration="7506000" />
+      <workItem from="1638726691219" duration="8846000" />
+      <workItem from="1638789811457" duration="7793000" />
     </task>
     <servers />
   </component>
