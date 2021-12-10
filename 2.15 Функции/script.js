@@ -208,13 +208,104 @@
 //     Результат функции с пустым return или без него – undefined
 // Если функция не возвращает значения, это всё равно, как если бы она возвращала undefined:
 
-    function doNothing() { /* пусто */ }
-
-alert( doNothing() === undefined ); // true
+//     function doNothing() { /* пусто */ }
+//
+// alert( doNothing() === undefined ); // true
 //Пустой return аналогичен return undefined:
 
-function doNothing() {
-    return;
-}
+// function doNothing() {
+//     return;
+// }
+//
+// alert( doNothing() === undefined ); // true
 
-alert( doNothing() === undefined ); // true
+
+// function showMessage(from, text, text1) {
+//     text = "This is my friend";
+//     // Если значение text ложно, тогда присвоить параметру text значение по умолчанию
+//     text = text || 'текст не добавлен';
+// alert ( from + " : " + text + " - "  + text1);
+
+//
+// }
+// showMessage('Vova', 'and', 'Good');
+// showMessage('Kirill');
+//
+//
+//
+
+// function checkAge(age) {
+//     if ( age <= 7 || age <= 17 ) {
+//         alert("Пошёл отсюда");
+//
+//
+//         let next = prompt('Скажешь что-то в своё оправдание? Малолетка', '');
+//
+//         return false;
+//     }
+//     else if (age >= 25) {
+//         alert ("Всё твоё");
+//         return true;
+//     }
+// }
+//
+// let age = prompt('Сколько вам лет?', 18);
+//
+// if (checkAge(age)) {
+//     alert('Доступ получен');
+//     alert ("УРАААААААААААААААААААААААА");
+// }
+//     else {
+//       alert("Доступ закрыт");
+// }
+
+
+// Функции, начинающиеся с…
+//
+// "get…" – возвращают значение,
+//     "calc…" – что-то вычисляют,
+//     "create…" – что-то создают,
+//     "check…" – что-то проверяют и возвращают логическое значение, и т.д.
+//     Примеры таких имён:
+//
+//     showMessage(..)     // показывает сообщение
+// getAge(..)          // возвращает возраст (в каком-либо значении)
+// calcSum(..)         // вычисляет сумму и возвращает результат
+// createForm(..)      // создаёт форму (и обычно возвращает её)
+// checkPermission(..) // проверяет доступ, возвращая true/false
+
+
+// Первый вариант использует метку nextPrime:
+//
+//     function showPrimes(n) {
+//         nextPrime: for (let i = 2; i < n; i++) {
+//
+//             for (let j = 2; j < i; j++) {
+//                 if (i % j == 0) continue nextPrime;
+//             }
+//
+//             alert( i ); // простое
+//         }
+//     }
+//Второй вариант использует дополнительную функцию isPrime(n) для проверки на простое:
+
+//     function showPrimes(n) {
+//
+//         for (let i = 2; i < n; i++) {
+//             if (!isPrime(i)) continue;
+//
+//             alert(i);  // простое
+//         }
+//     }
+//
+// function isPrime(n) {
+//     for (let i = 2; i < n; i++) {
+//         if ( n % i == 0) return false;
+//     }
+//     return true;
+// }
+//Второй вариант легче для понимания, не правда ли? Вместо куска кода мы видим название действия (isPrime). Иногда разработчики называют такой код самодокументируемым.
+
+  //  Таким образом, допустимо создавать функции, даже если мы не планируем повторно использовать их. Такие функции структурируют код и делают его более понятным.
+
+
