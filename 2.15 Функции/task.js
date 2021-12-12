@@ -94,9 +94,10 @@ function pow(x, n) {
 let x = prompt('x?', '');
 let n = prompt('n?', '');
 
+
 if ( n < 1 ) {
  alert(`Степень ${n} не поддерживается, используйте натуральное число`);
 } else {
-    console.log(pow(x,n));
+    alert(pow(x,n));
 }
 
